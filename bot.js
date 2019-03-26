@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-const prefix = "-";
+const prefix = "+";
 var usage = `\`${prefix}bc <content>\``
 
 
